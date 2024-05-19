@@ -1,1 +1,1 @@
-# AI-enhanced-automotive-designa-and-detection
+# AI-enhanced-automotive-design-and-detection
