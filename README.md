@@ -12,23 +12,12 @@ Getting Started
 To get started with this project, follow these steps:
 
 Clone the Repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/Mridulvarshney02/AI-enhanced-automotive-design-and-detection.git
 cd AI-enhanced-automotive-design-and-detection
 Install Dependencies: Ensure you have Python installed. Then, install the required packages:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the Application: Execute the main application script:
 
-bash
-Copy
-Edit
+Run the Application: Execute the main application script:
 python main.py
 Project Structure
 data/: Contains datasets used for training and evaluation.
